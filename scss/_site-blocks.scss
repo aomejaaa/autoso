@@ -7,7 +7,7 @@
 	}
 	&, .container > .row {
 		height: calc(100vh - 196px);
-		min-height: 610px;	
+		min-height: 577px;	
 		@include media-breakpoint-down(md) {
 			height: calc(70vh - 196px);
 			min-height: 400px;	
